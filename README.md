@@ -17,7 +17,7 @@
 - JAVA Swing 
 
 
-## About the website
+## About the Game
 
 - Just like the DX ball we played in our childhood
 
